@@ -122,8 +122,9 @@ Monthly salary reports
 Tax and bonus calculations
 Graphical user interface
 Author
-Abhiraj Sinha 
-B.Tech CSE (AI ML) VIT Bhopal University
+Abhiraj Sinha
+
+B.Tech CSE (AI/ML) VIT Bhopal University
 
 License
 This project is created for educational and academic purposes.
